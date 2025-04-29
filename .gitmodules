@@ -1,0 +1,3 @@
+[submodule "fifth project"]
+	path = fifth project
+	url = https://github.com/username/fifth-project.git
